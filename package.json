@@ -1,0 +1,17 @@
+{
+  "name": "com.tutsplus.code.hathi.todoapp",
+  "version": "1.0.0",
+  "displayName": "To-do",
+  "cordova": {
+    "platforms": [
+      "browser"
+    ],
+    "plugins": {
+      "cordova-plugin-whitelist": {}
+    }
+  },
+  "dependencies": {
+    "cordova-browser": "^5.0.1",
+    "cordova-plugin-whitelist": "1"
+  }
+}
